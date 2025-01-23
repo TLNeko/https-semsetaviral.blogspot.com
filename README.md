@@ -34,7 +34,9 @@ href="#">Kontak</a></li>
   </ul>
 </section>
 .</p>
-    </main>
+    </main><a href="https://www.instagram.com/tila_neko?igsh=dDFqOWpqdmNzYWYy" target="_blank">
+  <img src="path/ke/ikon/instagram.png" alt="Instagram">
+</a> 
     <footer>
         <p>&copy; 2025 Semesta Viral. All rights reserved.</p>
     </footer>
